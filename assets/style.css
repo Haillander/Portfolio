@@ -70,5 +70,33 @@
     font-weight: bold; 
   }
 
+  .main-gallery {
+    margin:0 auto;
+    padding: 30px 60px 30px 100px;
+  }
   
+  .covers-titles {
+    display: flex; 
+    margin-bottom: 70px;   
+    color: #31343d
+  }
+  
+  h2 {
+    font-size: 40px;
+    text-align: right;
+    min-width: 150px;
+    margin-right: 30px;
+    padding-right: 10px;
+    border-right:3px solid #31343d
+  }
+  
+  .content-right {
+    width: 100%;
+  }
+  
+  .content-right p {
+    font-size: 20px
+  }
+
+
   
