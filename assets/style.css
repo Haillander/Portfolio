@@ -98,5 +98,33 @@
     font-size: 20px
   }
 
-
+  .work-pics {
+    width: 100%;
+  }
+  
+  .work-pic1 {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;    
+    margin-bottom: 15px;
+    border:5px solid #92cccd;
+  }
+  
+  .pics1-2, .pics3-4 {
+    display: flex;   
+    width: 100%;
+  }
+  
+  
+  .pics1-2 {
+    margin-bottom: 15px;
+  }
+  
+  .top1, .top2, .top3, .top4 {
+    width: 100%;
+    height: 150px;
+    object-fit:cover;
+    border:5px solid #92cccd;
+    filter: brightness(50%);
+  }
   
